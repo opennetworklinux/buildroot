@@ -1,0 +1,4 @@
+PS1="onl-br #>$"
+echo
+echo "Welcome to the Open Network Linux Simple Buildroot shell."
+echo
