@@ -11,7 +11,7 @@
 # ONL base buildroot cpio.
 #
 ############################################################
-include $(shell onl.config.powerpc.mk.sh)
+include $(ONL)/make/config.powerpc.mk
 
 #
 # We build for these architectures
